@@ -48,16 +48,11 @@ This project simulates a vending machine system using object-oriented programmin
 - **ExcepValidareDate**: Custom exception class for input validation
 - **Tests**: Unit tests for core functionalities
 
-## How to Run
-Compile and run the project using a C++ compiler (GCC, Clang, or MSVC). Example:
-```sh
- g++ main.cpp -o vending_machine
- ./vending_machine
-```
-
 ## Testing
 Unit tests are included in `tests.cpp`. Run them separately before executing the main program.
 
-## Author
-- Developed by **sebyc** on **5/20/2024**
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/d3f724c3-0e68-4d24-9d5c-5287c8ef5f7e)
+
 
